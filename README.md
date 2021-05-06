@@ -14,17 +14,23 @@ recent projects include:
 * designing and developing an npm package Pixel Pusher! --> a pixel painting app for the Terminal to make visual poems
 * design and front-end services for a startup app Support System to provide marginalized communities with a search for medical providers
 
-+  looking to collaborate on projects with socially focused impact or artistic explorations in the visual, musical, or live performance realm.
 
-+  help me with algorhithmic animations any time!
+looking to collaborate on projects with socially focused impact or artistic explorations in the visual, musical, or live performance realm.
 
-+  hunt me down for CSS questions or talk out a project idea
 
-+  get to know me a layer deeper:
-        - non-binary
-        - queer
-        - middle-eastern
-        - post-modern dancer
+help me with algorhithmic animations any time!
+
+
+hunt me down for CSS questions or talk out a project idea
+
+
+get to know me a layer deeper:
+* non-binary
+* queer
+* middle-eastern
+* post-modern dancer
+* poet
+* music-maker
 
 have fun:
 🌐  katsauma@gmail.com
