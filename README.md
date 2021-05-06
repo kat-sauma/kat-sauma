@@ -9,10 +9,10 @@ That's right, a Front-End leaning Full Stack Software Engineer with a keen eye f
 Not to mention, an aquarius, a believer of the impossible, and a creative packing a whole lot of elbow grease. 
 I am a curious Kat, able to scope a project from beginning to end, and craft detailed, bold visual landscapes that attract enlivened audiences through clean code and intentional art. My work hones the user's experience to be a fluid experience while harnessing expression. 
 
-+  recent projects include: 
-        -  volunteering back-end services in Javascript to the Black Resilience Fund
-        -  designing and developing an npm package Pixel Pusher! --> a pixel painting app for the Terminal to make visual poems
-        -  design and front-end services for a startup app Support System to provide marginalized communities with a search for medical providers
+recent projects include: 
+* volunteering back-end services in Javascript to the Black Resilience Fund
+* designing and developing an npm package Pixel Pusher! --> a pixel painting app for the Terminal to make visual poems
+* design and front-end services for a startup app Support System to provide marginalized communities with a search for medical providers
 
 +  looking to collaborate on projects with socially focused impact or artistic explorations in the visual, musical, or live performance realm.
 
