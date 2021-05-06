@@ -33,10 +33,10 @@ get to know me a layer deeper:
 * music-maker
 
 have fun:
-🌐  katsauma@gmail.com
-⛓  https://www.linkedin.com/in/kat-sauma/
-🐣  @KatSauma
-📺  @sauma_mvmt____
+- 🌐  katsauma@gmail.com
+- ⛓  https://www.linkedin.com/in/kat-sauma/
+- 🐣  @KatSauma
+- 📺  @sauma_mvmt____
 
 
 ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy_icons=true)
