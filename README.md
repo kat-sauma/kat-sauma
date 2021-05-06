@@ -3,7 +3,7 @@
 
 
 
-### Marhaba! You've landed on hackin' habibi KAT SAUMA's home of code. 🀣 🧿 🀢
+### You've landed on hackin' habibi Kat Sauma's home of code. 🀣 🧿 🀢
 <!--
 **kat-sauma/kat-sauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
