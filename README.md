@@ -40,3 +40,4 @@ have fun:
 
 
 ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=nightowl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kat-sauma)](https://github.com/kat-sauma/github-readme-stats)
