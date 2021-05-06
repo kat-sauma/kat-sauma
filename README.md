@@ -1,10 +1,9 @@
 ### Marhaba! You've landed on hackin' habibi KAT SAUMA's home of code. 🀣 🧿 🀢
 <!--
-**kat-sauma/kat-sauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kat-sauma/kat-sauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- but. . .  W H O   A R E   T H E Y   ?
+but. . .  W H O   A R E   T H E Y   ?
  
- +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +    +
 That's right, a Front-End leaning Full Stack Software Engineer with a keen eye for d e s i g n! 
 
 Not to mention, an aquarius, a believer of the impossible, and a creative packing a whole lot of elbow grease. 
