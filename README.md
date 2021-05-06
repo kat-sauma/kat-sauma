@@ -39,4 +39,4 @@ have fun:
 - 📺  @sauma_mvmt____
 
 
-![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy_icons=true)
+![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=nightowl_icons=true)
