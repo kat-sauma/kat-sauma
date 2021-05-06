@@ -1,4 +1,5 @@
-![pink-background-grid-slime copy](https://user-images.githubusercontent.com/74579728/117240009-bbcf3600-ade4-11eb-9811-acfa6543cee3.jpg)
+
+![pink-background-grid-slime NAME](https://user-images.githubusercontent.com/74579728/117240753-6431ca00-ade6-11eb-8bbd-96842c72f260.jpg)
 
 
 
@@ -45,3 +46,5 @@ have fun:
 
 ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy&show_icons=true&bg_color=DEG,FFC476,FFEF72,B3F0C4,E2D3F2,A3C0FA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kat-sauma&layout=compact)](https://github.com/kat-sauma/github-readme-stats&text_color=DEG,A3C0FA)
+
+![pink-background-grid-slime copy](https://user-images.githubusercontent.com/74579728/117240009-bbcf3600-ade4-11eb-9811-acfa6543cee3.jpg)
