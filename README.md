@@ -1,4 +1,5 @@
-<img width="2058" alt="pink-background-grid-slime" src="https://user-images.githubusercontent.com/74579728/117239958-a35f1b80-ade4-11eb-8e52-da86dae14ed9.png">
+![pink-background-grid-slime copy](https://user-images.githubusercontent.com/74579728/117240009-bbcf3600-ade4-11eb-9811-acfa6543cee3.jpg)
+
 
 
 ### Marhaba! You've landed on hackin' habibi KAT SAUMA's home of code. 🀣 🧿 🀢
