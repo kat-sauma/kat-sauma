@@ -39,5 +39,5 @@ have fun:
 - 📺  @sauma_mvmt____
 
 
-![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy&show_icons=true)
+![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy&show_icons=true&bg_color=DEG,FFC476,FFEF72,B3F0C4,E2D3F2,A3C0FA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kat-sauma&layout=compact)](https://github.com/kat-sauma/github-readme-stats)
