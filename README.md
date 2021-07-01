@@ -7,16 +7,13 @@
 <!--
 **kat-sauma/kat-sauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-W H O   A R E   T H E Y   ?
+H E L L O, W O R L D.
  
 Full Stack Software Engineer with a keen eye for d e s i g n 
 
-A creative packing a whole lot of elbow grease. 
-Able to scope a project from beginning to end, and craft detailed, bold visual landscapes that attract enlivened audiences through clean code and intentional artistry. My work hones the user's experience to be a fluid experience while harnessing expression. 
-
 recent projects include: 
 * back-end services in Javascript to the Black Resilience Fund
-* design and frontend development of a visual art and sonic composition app, utilizing Socket.io for collaborative experiences!
+* design and frontend development of SOCKET JOCKEY: a visual art and sonic composition app, utilizing Socket.io for collaborative experiences!
 * designing and developing an npm package Pixel Pusher! --> a pixel painting app for the Terminal to make visual poems
 * design and front-end services for Support System through Code for PDX
 
@@ -27,7 +24,7 @@ recent projects include:
 🀥 help me with algorhithmic animations any time!
 
 
-🀣 hunt me down for CSS questions or talk out a project idea
+🀣 hunt me down for CSS questions or to strategically scope a project idea
 
 
 get to know me a layer deeper:
@@ -51,7 +48,7 @@ Material-UI
 React.js
 Node.js
 Express.js
-Ruby on Rails
+Ruby on Rails (learning)
 Superagent
 Socket.io
 
