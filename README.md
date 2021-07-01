@@ -1,4 +1,3 @@
-![IMG_1789](https://user-images.githubusercontent.com/74579728/124191772-23b69b80-da79-11eb-9f5b-5eea3169cb3b.PNG)
 
 ![pink-background-grid-slime NAME](https://user-images.githubusercontent.com/74579728/117240753-6431ca00-ade6-11eb-8bbd-96842c72f260.jpg)
 
@@ -52,6 +51,9 @@ Express.js
 Ruby on Rails (learning)
 Superagent
 Socket.io
+
+<img width="889" alt="Screen Shot 2021-06-08 at 5 56 51 PM" src="https://user-images.githubusercontent.com/74579728/124191877-4b0d6880-da79-11eb-939a-e79ac40c3116.png">
+
 
 ![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kat-sauma&theme=buefy&show_icons=true&bg_color=DEG,FFC476,FFEF72,B3F0C4,E2D3F2,A3C0FA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kat-sauma&layout=compact)](https://github.com/kat-sauma/github-readme-stats&text_color=DEG,A3C0FA)
